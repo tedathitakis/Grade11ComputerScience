@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class madlibs
+{
+  public static void main(String [] args)
+  {
+    String Stry_1 = "Once upon a time there was a "
+    //defining all mad libs variables
+    Scanner mdlb_a_Adjective = new Scanner(system.in);
+    Scanner mdlb_b_ProperNoun
+    
+    
