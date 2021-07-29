@@ -1,5 +1,5 @@
 # HighschoolComputerScience
-[read in raw]
+[READ IN RAW]
 /Grade 11/
 orginaly created on repl.it
 at this point I didn't follow a proper naming sceem
