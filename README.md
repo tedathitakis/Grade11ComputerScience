@@ -9,4 +9,4 @@ Taken in online nightschool in a split class
     -barely any teaching time
 90% self taught
 fastest and most demanding course I had during highschool
-Most of the code was orginally created in replit but moved to eclispse when recursion was to demanding for replit
+Most of the code was orginally created in replit but moved to eclispse when recursion was too demanding for replit
